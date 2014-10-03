@@ -1,4 +1,3 @@
-CryptocauseCoin - An SHA256 PoW Cloner!
+CryptocauseCoin - An SHA256 PoW Good Cause Coin
 
-[![Build Status](https://travis-ci.org/RazorLove/CryptocauseCoin.png?branch=master)](https://travis-ci.org/RazorLove/CryptocauseCoin)
 
